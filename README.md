@@ -1,0 +1,5 @@
+# Saue valla jalgrattataristu
+
+## Andmeallikad
+
+- [Hooldatavad jalgratta- ja jalgteed (gis.sauevald.ee)](https://gis.sauevald.ee/arcgis/rest/services/Hosted/Hooldatavad_kergteed/FeatureServer) ([geojson](https://gis.sauevald.ee/arcgis/rest/services/Hosted/Hooldatavad_kergteed/FeatureServer/0/query?where=tase%3D%27III%27&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&defaultSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=xyFootprint&resultOffset=&resultRecordCount=&returnTrueCurves=false&returnCentroid=false&returnEnvelope=false&timeReferenceUnknownClient=false&maxRecordCountFactor=&sqlFormat=none&resultType=&datumTransformation=&lodType=geohash&lod=&lodSR=&f=geojson))
